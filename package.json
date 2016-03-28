@@ -1,0 +1,28 @@
+{
+  "name": "start",
+  "version": "1.0.0",
+  "description": "Build a Real-Time Markdown Editor with Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "let's just get start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VShangxiao/Real-Time-Markdown-Editor-with-Node.js.git"
+  },
+  "keywords": [
+    "md"
+  ],
+  "author": "Frank Hummal",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/VShangxiao/Real-Time-Markdown-Editor-with-Node.js/issues"
+  },
+  "homepage": "https://github.com/VShangxiao/Real-Time-Markdown-Editor-with-Node.js#readme",
+  "dependencies": {
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "redis": "^2.6.0-0",
+    "share": "^0.6.3"
+  }
+}
